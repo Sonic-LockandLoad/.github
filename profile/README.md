@@ -7,6 +7,6 @@ It draws inspiration from Sonic games, as well as titles like Sonic Robo Blast 2
 
 Sonic: Lock & Load is not fully completed yet, and development is progressing slowly. However, it aims to provide an extremely fun and thrilling experience reminiscent of old-school shooters, as well as their modern-day revivals.
 
-Sonic: Lock & Load is a project by [Arsalan Kazmi](https://github.com/that1m8head), free software under the 3-clause BSD license.
+Sonic: Lock & Load is a project by [Arsalan "Velocity" Kazmi](https://github.com/that1m8head), free software under the 3-clause BSD license.
 
 You can find Sonic: Lock & Load on Sonic Fan Games HQ, Mod DB and Doomworld.

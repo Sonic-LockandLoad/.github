@@ -1,12 +1,12 @@
 <h1 align=center>Welcome to Sonic: Lock & Load!</h1>
 <p align=center><img src="https://sonic-lockandload.github.io/Sonic-LockandLoadLogo.png" width=400px /></p>
 
-Sonic: Lock & Load is a hyper-fast, action packed first-person shooter based on the Sonic the Hedgehog series of games and built on GZDoom.
+Sonic: Lock & Load is a hyper-fast stylish action first-person shooter based on the Sonic the Hedgehog series of games and built on GZDoom.
 
-It draws inspiration from Sonic games, as well as titles like Sonic Robo Blast 2, ULTRAKILL and DOOM Eternal. It also features elements from other GZDoom mods and retro FPS games.
+It's heavily inspired by the high-speed platforming of Sonic Robo Blast 2, the heavily movement-based FPS gameplay of ULTRAKILL and the stylish action of Devil May Cry.
 
-Sonic: Lock & Load is not fully completed yet, and development is progressing slowly. However, it aims to provide an extremely fun and thrilling experience reminiscent of old-school shooters, as well as their modern-day revivals.
+The current version of Sonic: Lock & Load is v1.4 "Horizons", part of Season 1: Chaos.
 
-Sonic: Lock & Load is a project by [Arsalan "Velocity" Kazmi](https://github.com/that1m8head), free software under the 3-clause BSD license.
+Sonic: Lock & Load is a project by [Arsalan "Aeria" Kazmi](https://github.com/that1m8head), free software under the GNU General Public Licence v3.
 
-You can find Sonic: Lock & Load on Sonic Fan Games HQ, Mod DB and Doomworld.
+For more information, see [the website](https://sonic-lockandload.github.io).

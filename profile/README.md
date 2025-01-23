@@ -1,3 +1,7 @@
+
+> [!CAUTION]
+> This organisation is **DEPRECATED** and its repositories will no longer be updated. For up-to-date versions of Sonic: Lock & Load and surrounding repositories, see the [Codeberg organisation.](https://codeberg.org/Sonic-LockandLoad)
+
 <h1 align=center>Welcome to Sonic: Lock & Load!</h1>
 <p align=center><img src="https://sonic-lockandload.github.io/Sonic-LockandLoadLogo.png" width=400px /></p>
 
